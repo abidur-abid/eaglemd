@@ -11,17 +11,17 @@ const ContractionPage = () => {
       </>
       <>
       <div className='lg:flex justify-center gap-10 items-center my-20'>
-        <div>
-          <Image src={photo} className='rounded w-80 h-80 rounded-full sm:mx-auto'></Image>
+        <div >
+          <Image src={photo} className='rounded w-80 h-80 rounded-full mx-auto'></Image>
         </div>
         <div>
-          <h1 className='text-4xl my-2 lg:text-left sm:text-center md:text-center'>Nurul Hoque, MD</h1>
-          <h2 className='text-2xl my-2 lg:text-left sm:text-center md:text-center'>Psychiatrist and CEO</h2>
-          <p className='text-xl my-2 lg:text-left sm:text-center md:text-center'>EagleMD MH Svc LLC.</p>
+          <h1 className='text-4xl my-2 lg:text-left sm:text-center md:text-center text-center'>Nurul Hoque, MD</h1>
+          <h2 className='text-2xl my-2 lg:text-left sm:text-center md:text-center text-center'>Psychiatrist and CEO</h2>
+          <p className='text-xl my-2 lg:text-left sm:text-center md:text-center text-center'>EagleMD MH Svc LLC.</p>
           <ul>
-            <li className='my-2 lg:text-left sm:text-center md:text-center'>Tel: (678) 656-2232</li>
-            <li className='my-2 lg:text-left sm:text-center md:text-center'>Email: info@eaglemdpsychiatry.com</li>
-            <li className='my-2 lg:text-left sm:text-center md:text-center'>Address: Suite 385, 2302 Parklake Dr.Atlanta, GA30345</li>
+            <li className='my-2 lg:text-left sm:text-center md:text-center text-center'>Tel: (678) 656-2232</li>
+            <li className='my-2 lg:text-left sm:text-center md:text-center text-center'>Email: info@eaglemdpsychiatry.com</li>
+            <li className='my-2 lg:text-left sm:text-center md:text-center text-center'>Address: Suite 385, 2302 Parklake Dr.Atlanta, GA30345</li>
           </ul>
         </div>
       </div>
@@ -29,22 +29,22 @@ const ContractionPage = () => {
       <>
        <p className='text-4xl font-bold text-center text-white bg-secondaryColor py-4 rounded'>Services</p>
        <ul className='lg:grid grid-cols-4 mt-10 px-20 my-24'>
-          <li className='lg:text-left sm:text-center md:text-center'>Depression</li> 
-          <li className='lg:text-left sm:text-center md:text-center'>Anxiety</li> 
-          <li className='lg:text-left sm:text-center md:text-center'>PTSD</li> 
-          <li className='lg:text-left sm:text-center md:text-center'>Phobia</li> 
-          <li className='lg:text-left sm:text-center md:text-center'>Bipolar I & II disorder</li> 
-          <li className='lg:text-left sm:text-center md:text-center'>Mood instability</li> 
-          <li className='lg:text-left sm:text-center md:text-center'>Autism </li>
-          <li className='lg:text-left sm:text-center md:text-center'>ADHD</li> 
-          <li className='lg:text-left sm:text-center md:text-center'>Schizophrenia</li>
-          <li className='lg:text-left sm:text-center md:text-center'>OCD</li> 
-          <li className='lg:text-left sm:text-center md:text-center'>Eating Disorder </li>
-          <li className='lg:text-left sm:text-center md:text-center'>Substance Related Addiction</li> 
-          <li className='lg:text-left sm:text-center md:text-center'>Dementia</li> 
-          <li className='lg:text-left sm:text-center md:text-center'>Sleeping Disorders </li>
-          <li className='lg:text-left sm:text-center md:text-center'>Lifestyle modifications</li> 
-          <li className='lg:text-left sm:text-center md:text-center'>Life skills</li>
+          <li className='lg:text-left sm:text-center md:text-center text-center'>Depression</li> 
+          <li className='lg:text-left sm:text-center md:text-center text-center'>Anxiety</li> 
+          <li className='lg:text-left sm:text-center md:text-center text-center'>PTSD</li> 
+          <li className='lg:text-left sm:text-center md:text-center text-center'>Phobia</li> 
+          <li className='lg:text-left sm:text-center md:text-center text-center'>Bipolar I & II disorder</li> 
+          <li className='lg:text-left sm:text-center md:text-center text-center'>Mood instability</li> 
+          <li className='lg:text-left sm:text-center md:text-center text-center'>Autism </li>
+          <li className='lg:text-left sm:text-center md:text-center text-center'>ADHD</li> 
+          <li className='lg:text-left sm:text-center md:text-center text-center'>Schizophrenia</li>
+          <li className='lg:text-left sm:text-center md:text-center text-center'>OCD</li> 
+          <li className='lg:text-left sm:text-center md:text-center text-center'>Eating Disorder </li>
+          <li className='lg:text-left sm:text-center md:text-center text-center'>Substance Related Addiction</li> 
+          <li className='lg:text-left sm:text-center md:text-center text-center'>Dementia</li> 
+          <li className='lg:text-left sm:text-center md:text-center text-center'>Sleeping Disorders </li>
+          <li className='lg:text-left sm:text-center md:text-center text-center'>Lifestyle modifications</li> 
+          <li className='lg:text-left sm:text-center md:text-center text-center'>Life skills</li>
        </ul>
       </>
       <>
